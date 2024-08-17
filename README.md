@@ -10,11 +10,11 @@ Please complete the following list of items, but also feel free to customize the
 
 To Do:
 
-- [ ] 1. Add `Viewport` metatag
-- [ ] 2. Center div `hero-content` in `hero` section
-- [ ] 3. Change `Hero` button `:hover` colors.
-- [ ] 4. Change photo in `About Me` section.
-- [ ] 5. BONUS: Add a `Contact` section.
+- [x] 1. Add `Viewport` metatag
+- [x] 2. Center div `hero-content` in `hero` section
+- [x] 3. Change `Hero` button `:hover` colors.
+- [x] 4. Change photo in `About Me` section.
+- [x] 5. BONUS: Add a `Contact` section.
 
 ---
 
